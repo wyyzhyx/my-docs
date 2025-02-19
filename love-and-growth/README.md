@@ -12,7 +12,7 @@
 
 谨以这部著作，献给那些在《千千阙歌》中编织青春记忆的一代。每当那熟悉的旋律响起，仿佛时间逆流，寄托着我们对纯真年代的深深怀念与感慨。愿这部著作能够见证我们的回忆，共同开启并续写我们美好幸福的未来。
 
-![胡瑞阳签名](media/image1.png){width="2.011111111111111in"
+![胡瑞阳签名](https://raw.githubusercontent.com/wyyzhyx/my-docs/refs/heads/main/love-and-growth/media/image1.png){width="2.011111111111111in"
 height="0.8625in"}
 
 胡瑞阳
